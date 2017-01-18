@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ULTRADNS/.idea/ULTRADNS.iml" filepath="$PROJECT_DIR$/../ULTRADNS/.idea/ULTRADNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rabbitmqquery/.idea/rabbitmqquery.iml" filepath="$PROJECT_DIR$/../rabbitmqquery/.idea/rabbitmqquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../screen_zbx/.idea/screen_zbx.iml" filepath="$PROJECT_DIR$/../screen_zbx/.idea/screen_zbx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snmp/snmp01/.idea/snmp01.iml" filepath="$PROJECT_DIR$/../snmp/snmp01/.idea/snmp01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sshmanager.iml" filepath="$PROJECT_DIR$/.idea/sshmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zbx_query/.idea/zbx_query.iml" filepath="$PROJECT_DIR$/../zbx_query/.idea/zbx_query.iml" />
+    </modules>
+  </component>
+</project>
